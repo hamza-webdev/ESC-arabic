@@ -111,7 +111,7 @@ const HomePage: React.FC = () => {
       {/* Call to Action */}
       <section className="bg-primary-600 py-16 text-white">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-3xl font-bold mb-4">انضم إلى عائلة فريق الأمل</h2>
+          <h2 className="text-3xl font-bold mb-4"> بشربان انضم إلى عائلة فريق الأمل بشربان</h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
             هل أنت مهتم بدعم الفريق أو الانضمام إلينا؟ تواصل معنا الآن!
           </p>
