@@ -23,7 +23,7 @@ export const newsData: NewsItem[] = [
 صرح المدرب بعد المباراة: "أنا فخور جداً بأداء اللاعبين وروحهم القتالية. لقد طبقوا الخطة التكتيكية بدقة وتميزوا في جميع الخطوط. سنواصل العمل بجد للاستعداد للمباريات القادمة."
 
 بهذا الفوز يتأهل الفريق إلى الدور ربع النهائي من البطولة لمواجهة الفائز من مباراة الاتحاد والهلال.`,
-    image: 'https://images.pexels.com/photos/3621104/pexels-photo-3621104.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSws2UqeziploKSZd02UeJuEjd2G4t-o9lDfyGKKgnq-M_aSh_-bDbRI5vODIzaz4f_Kd8&usqp=CAU?auto=compress&cs=tinysrgb&w=600',
     category: 'مباريات'
   },
   {
@@ -42,7 +42,7 @@ export const newsData: NewsItem[] = [
 من جانبه، عبر اللاعب عن سعادته بالانضمام إلى الفريق قائلاً: "أنا فخور بالانضمام إلى نادٍ عريق مثل الأمل الرياضي، وأتطلع للعمل مع المدرب واللاعبين لتحقيق أهداف النادي والفوز بالبطولات."
 
 سيبدأ اللاعب التدريبات مع الفريق اعتباراً من الأسبوع القادم استعداداً للموسم الجديد.`,
-    image: 'https://images.pexels.com/photos/3148452/pexels-photo-3148452.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVgyExv4FHJ7rsE-UZZrAngtx-QmGru7D3e2Y3RVdj2yDcOVncKcO11lR-Ngtg5N2WvNg&usqp=CAU?auto=compress&cs=tinysrgb&w=600',
     category: 'تعاقدات'
   },
   {
@@ -65,7 +65,7 @@ export const newsData: NewsItem[] = [
 للتسجيل والاستفسار، يرجى التواصل مع إدارة النادي على الرقم: XXXX أو زيارة مقر النادي.
 
 عدد المقاعد محدود، لذا يرجى المبادرة بالتسجيل.`,
-    image: 'https://images.pexels.com/photos/3041176/pexels-photo-3041176.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdr_qLdLXFrllG9wwEQYL7f7W9xm-elfYmrcABr7ePzF2wmaJtY0VbZzQBPOkcJllpPA&usqp=CAU?auto=compress&cs=tinysrgb&w=600',
     category: 'تدريبات'
   },
   {
@@ -82,7 +82,7 @@ export const newsData: NewsItem[] = [
 من جانبه، عبر المدرب عن سعادته بتجديد العقد قائلاً: "أشكر إدارة النادي على ثقتها، وأشكر الجهاز الفني واللاعبين على جهودهم. أعد الجماهير بمواصلة العمل الجاد لتحقيق طموحات النادي والمنافسة على جميع البطولات."
 
 وأضاف: "لدينا مشروع رياضي طموح نسعى لتحقيقه خلال السنوات القادمة، يتضمن تطوير أداء الفريق وتعزيز صفوفه باللاعبين المميزين، بالإضافة إلى الاهتمام بقطاع الناشئين."`,
-    image: 'https://images.pexels.com/photos/6866393/pexels-photo-6866393.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7VMZDj5_qkG-2dW4lRoLp4wCx1DUbf-cTH0kssmYLdwkiRVFjf5dvv5Wn1vREcnnM69A&usqp=CAU?auto=compress&cs=tinysrgb&w=600',
     category: 'إدارة'
   }
 ];

@@ -93,30 +93,30 @@ const TeamPage: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="text-center">
               <img 
-                src="https://images.pexels.com/photos/6866393/pexels-photo-6866393.jpeg?auto=compress&cs=tinysrgb&w=300" 
+                src="https://assarih.com/wp-content/uploads/2024/06/helmi-salem.jpg" 
                 alt="المدرب"
                 className="rounded-full w-32 h-32 object-cover mx-auto mb-4"
               />
-              <h3 className="text-xl font-bold">سمير العابد</h3>
+              <h3 className="text-xl font-bold">حلمي سالم </h3>
+              <p className="text-primary-600 font-medium">رئيس الجمعية  </p>
+            </div>
+            <div className="text-center">
+              <img 
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5wjHOTioDP1Q0cKHzeVGwwaKKw-1TaJRaYJlE30amUpaieFiBi9tg-W4LKCSYX4tJqk0&usqp=CAU" 
+                alt="مساعد المدرب"
+                className="rounded-full w-32 h-32 object-cover mx-auto mb-4"
+              />
+              <h3 className="text-xl font-bold"> Santos </h3>
               <p className="text-primary-600 font-medium">المدرب الرئيسي</p>
             </div>
             <div className="text-center">
               <img 
-                src="https://images.pexels.com/photos/8224754/pexels-photo-8224754.jpeg?auto=compress&cs=tinysrgb&w=300" 
-                alt="مساعد المدرب"
-                className="rounded-full w-32 h-32 object-cover mx-auto mb-4"
-              />
-              <h3 className="text-xl font-bold">منير الحمدي</h3>
-              <p className="text-primary-600 font-medium">مساعد المدرب</p>
-            </div>
-            <div className="text-center">
-              <img 
-                src="https://images.pexels.com/photos/6347919/pexels-photo-6347919.jpeg?auto=compress&cs=tinysrgb&w=300" 
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQslJJh8aUZzWGoZvBJPFV-_kBCmVL-EBsH2w&s" 
                 alt="مدرب اللياقة"
                 className="rounded-full w-32 h-32 object-cover mx-auto mb-4"
               />
-              <h3 className="text-xl font-bold">خالد محمود</h3>
-              <p className="text-primary-600 font-medium">مدرب اللياقة البدنية</p>
+              <h3 className="text-xl font-bold">حافظ بوناب </h3>
+              <p className="text-primary-600 font-medium">المدير الفني </p>
             </div>
           </div>
         </div>
@@ -139,7 +139,7 @@ const TeamPage: React.FC = () => {
               <li className="flex items-center space-x-3 rtl:space-x-reverse">
                 <Mail className="h-5 w-5 text-primary-600" />
                 <span>recruiting@alamalteam.com</span>
-              </li>
+              </li>محمود
               <li className="flex items-center space-x-3 rtl:space-x-reverse">
                 <MapPin className="h-5 w-5 text-primary-600" />
                 <span>ملعب البلدية، شربان، تونس</span>
