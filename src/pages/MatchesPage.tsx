@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { Calendar, MapPin } from 'react-feather'; // or your icon library
+import { Calendar } from 'react-feather'; // or your icon library
+import MapPin from '../components/layout/MapPin';
 
 import { matchesData } from '../data/matchesData';
 
