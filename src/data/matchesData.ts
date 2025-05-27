@@ -28,7 +28,7 @@ export const matchesData: Match[] = [
     competition: 'الدوري المحلي',
     homeTeam: {
       id: 1,
-      name: 'فريق الأمل',
+      name: 'فريق الأمل شربان ',
       logo: alAmalLogo
     },
     awayTeam: {
@@ -49,7 +49,7 @@ export const matchesData: Match[] = [
     },
     awayTeam: {
       id: 1,
-      name: 'فريق الأمل',
+      name: ' شربان فريق الأمل',
       logo: alAmalLogo
     },
     venue: 'الملعب الرئيسي، تونس'
@@ -60,7 +60,7 @@ export const matchesData: Match[] = [
     competition: 'الدوري المحلي',
     homeTeam: {
       id: 1,
-      name: 'فريق الأمل',
+      name: 'فريق الأمل شربان  ',
       logo: alAmalLogo
     },
     awayTeam: {

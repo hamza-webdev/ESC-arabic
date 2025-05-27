@@ -52,7 +52,7 @@ const GalleryPage: React.FC = () => {
         <div className="container mx-auto px-4">
           <h1 className="text-4xl font-bold mb-4">معرض الصور</h1>
           <p className="text-xl max-w-2xl mx-auto">
-            مجموعة من الصور الحصرية لفريق الأمل الرياضي خلال المباريات والتدريبات والفعاليات المختلفة
+            مجموعة من الصور الحصرية لفريق الأمل  الرياضي خلال المباريات والتدريبات والفعاليات المختلفة
           </p>
         </div>
       </section>
