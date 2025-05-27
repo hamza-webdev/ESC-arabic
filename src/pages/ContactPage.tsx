@@ -49,7 +49,7 @@ const ContactPage: React.FC = () => {
                     </div>
                     <div>
                       <h3 className="font-bold text-lg">العنوان</h3>
-                      <p className="text-gray-600">ملعب البلدية، شربان، تونس</p>
+                      <p className="text-gray-600">ملعب البلدية، شربان (المهدية )</p>
                     </div>
                   </li>
                 </ul>

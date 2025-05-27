@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <div className="md:col-span-1">
             <div className="flex items-center space-x-3 rtl:space-x-reverse">
               <Trophy className="h-8 w-8 text-primary-400" />
-              <span className="text-xl font-bold">فريق الأمل الرياضي</span>
+              <span className="text-xl font-bold">فريق الأمل الرياضي شربان</span>
             </div>
             <p className="mt-4 text-gray-300">
               نادي كرة قدم يطمح للتميز والمنافسة على جميع المستويات، تأسس عام 2010 في شربان.
@@ -81,7 +81,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="border-t border-gray-700 mt-10 pt-6 text-center text-gray-400">
-          <p>© {new Date().getFullYear()} فريق الأمل الرياضي - جميع الحقوق محفوظة</p>
+          <p>© {new Date().getFullYear()} فريق الأمل الرياضي شربان - جميع الحقوق محفوظة </p>
         </div>
       </div>
     </footer>
